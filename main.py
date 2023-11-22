@@ -4,3 +4,4 @@ def func4(x):
 print(func4(10))
 print("Hello")
 print("Hi")
+print("Привет")
