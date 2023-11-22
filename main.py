@@ -1,4 +1,4 @@
-def func3(x):
-    return x * 2
+def func4(x):
+    return x * 4
 
-print(func3(10))
+print(func4(10))
