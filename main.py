@@ -1,4 +1,4 @@
-def func4(x):
-    return x **4
+def func5(x):
+    return x ** 5
 
-print(func4(10))
+print(func5(10))
